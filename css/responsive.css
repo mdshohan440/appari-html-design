@@ -1,0 +1,363 @@
+/* Laptop devices :1200px.check with 1366px */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .app-shape-02 {
+        right: -9%;
+    }
+    .main-app {
+        margin: -20px;
+    }
+
+}
+.h-i-w-bg {
+    max-width: 100%;
+    background-repeat: no-repeat;
+}
+
+
+
+/* Normal desktop :992px. check with 1050px */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .main-menu ul li {
+        margin: 0px 6px;
+    }
+    .slider-height {
+        min-height: 1050px;
+        background-position: center center;
+    }
+    .shape-02 {
+        bottom: 15%;
+        left: 53%;
+    }
+    .features-text p {
+        padding: 0;
+    }
+    .video-wrapper h3 {
+        top: 168px;
+        right: 324px;
+    }
+    .video-wrapper img {
+        max-width: 100%;
+    }
+    .video-wrapper i {
+        top: 244px;
+        right: 410px;
+        padding: 35px;
+    }
+    .hiw-content img {
+        max-width: 100%;
+    }
+    .how-it-works-text {
+        margin-top: -9px;
+        padding-right: 38px;
+        padding-left: 45px;
+    }
+    .how-it-works-text h2 {
+      
+        padding-right: 0;
+    }
+    .price-nav {
+        margin-left: 345px;
+    }
+    .faq-img img {
+	max-width: 100%;
+}
+.latest-blog-img img {
+	max-width: 100%;
+}
+.inner-blog {
+
+	padding: 11px 28px;
+}
+.l-b-meta span {
+	margin-right: 0px;
+}
+.subscribe-space {
+	padding: 25px 76px;
+}
+.available-text h2 {
+	font-size: 46px;
+}
+.available-btn img {
+	height: 109px;
+}
+.ft-content p {
+	margin-top: 12px;
+}
+.h-i-w-bg {
+    max-width: 100%;
+    background-repeat: no-repeat;
+}
+
+
+
+}
+
+ 
+/* Tablet desktop :768px. check with 876px */
+@media (min-width: 768px) and (max-width: 991px) {
+    .mean-container a.meanmenu-reveal {
+        margin-top: -41px;
+    }
+    .slider-content-space {
+        padding-top: 210px;
+    }
+    .shape-01 {
+        top: 12%;
+        left: 2%;
+    }
+    .shape-02 {
+        bottom: 25%;
+        left: 57%;
+    }
+    .slider-height {
+        min-height: 1020px;
+        background-position: bottom;
+    }
+    .features-text p {
+        padding: 0;
+    }
+
+    .video-area {
+        height: 600px;
+    }
+
+    .video-wrapper i {
+        top: 176px;
+        right: 292px;
+        padding: 20px;
+    }
+    .video-wrapper h3 {
+        font-size: 30px;
+        top: 113px;
+        right: 250px;
+    }
+
+
+    .section-title h2 {
+        font-size: 37px;
+        font-weight: 700;
+        margin-bottom: 20px;
+    }
+    .how-it-works-text {
+        margin-top: 8px;
+    }
+    .video-wrapper {
+        margin-bottom: 0;
+    }
+    .price-nav {
+        margin-left: 210px;  
+    }
+    .subscribe-space {
+        padding: 16px 31px;
+    }
+    .subscribe-form {
+        padding: 6px;
+    }
+    .latest-blog{
+        padding-bottom:10px;
+    }
+    .latest-blog-area{
+        margin-top: 20px;
+    }
+    .latest-blog-img img {
+        max-width: 100%;
+    }
+    .inner-blog {
+        padding: 11px 28px;
+    }
+    .l-b-meta span {
+        margin-right: 10px;
+    }
+    .available-btn img {
+        height: 98px;
+    }
+    .ft-content p {
+        margin-top: 12px;
+    }
+    .h-i-w-bg {
+        max-width: 100%;
+        background-repeat: no-repeat;
+    }
+    
+
+}
+
+ 
+/* small mobile :320px.  check with 350px*/
+@media (max-width: 767px) {
+    .slider-content-space {
+        padding-top: 160px;
+    }
+    .slider-height {
+        min-height: 980px;
+        background-position: bottom;
+    }
+    .shape-01,.shape-02{
+        display: none;
+    }
+    .slider-area {
+        margin-bottom: 40px;
+    }
+    .slider-text h2 {
+        font-size: 34px;
+        padding-right: 36px;
+    }
+    .slider-text p {
+        font-size: 18px;
+        line-height: 1.5; 
+    }
+    .slider-btn {
+        text-align: center;
+    }
+    .slider-btn a {
+        margin-bottom: 8px;
+    }
+    .fact-area {
+        margin-top: -252px;
+    }
+    .features-area {
+        padding-top: 26px;
+        padding-bottom: 80px;
+    }
+    .section-title h2 {
+        font-size: 28px;
+        margin-bottom: 13px;
+    }
+    .section-title p {
+        font-size: 17px;
+        line-height: 1.4;
+        margin: 0;
+    }
+    .offset-1 {
+        margin-left: 0;
+    }
+    .features-icon {
+        margin-bottom: 25px;
+    }
+    .features-text h3 {
+        margin-bottom: 15px;
+    }
+    .features-text p {
+        padding: 0;
+    }
+    .video-area {
+        height: 213px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: auto;
+        margin-bottom: 50px;
+    }
+    .video-wrapper h3 {
+        font-size: 15px;
+        padding-top: 50px;
+    }
+
+    .video-wrapper i {
+        font-size: 26px;
+        padding: 12px;
+    }
+    .row.hiw-content img {
+        max-width: 100%;
+    }
+    .how-it-works-text {
+        margin-top: 31px;
+        padding-right: 28px;
+    }
+    .how-it-works-text h2 {
+        padding-right: 0px;
+    }
+    .how-it-works-text a {
+        font-size: 14px;
+        padding: 35px 56px;
+    }
+    .price-nav {
+        margin-bottom: 0px;
+    }
+    #pills-tab {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-left: 24px;
+    }
+    .testimonial-active .testimonail-item p {
+        font-size: 21px;
+    }
+    .pricing-area {
+        margin-bottom: -378px;
+    }
+    .testmonial-area.blue-grad-bg.test-space {
+        padding-bottom: 43px;
+    }
+    .screenshot-area {
+        padding-top: 49px;
+        padding-bottom: 40px;
+    }
+    .faq-img img {
+        max-width: 100%;
+    }
+    .brand-heading h3 {
+        font-weight: 400;
+        font-size: 24px;
+    }
+    .latest-blog-area {
+        margin-top: 2px;
+    }
+    .latest-blog{
+        padding-bottom:10px;
+    }
+    .latest-blog-area{
+        margin-top: 20px;
+    }
+    .latest-blog-img img {
+        max-width: 100%;
+    }
+    .latest-blog {
+        padding-bottom: 27px;
+    }
+    .inner-blog {
+        padding: 20px 20px;
+    }
+    .l-b-meta span {
+        margin-right: 8px;
+    }
+    .available-btn img {
+        height: 98px;
+    }
+    .ft-content p {
+        margin-top: 12px;
+    }
+    .subscribe-title h3 {
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .subscribe-space {
+        padding: 26px 20px;
+    }
+    .subscribe-form {
+        padding-left: 0;
+    }
+    .subscribe-form input {
+        width: 100%;
+        height: 56px;
+        padding: 10px 21px;
+    }
+    .subscribe-form.btn {
+        padding: 24px 21px;
+    }
+    .subscribe-form button {
+        position: static;
+        padding-left: 7px;
+        padding-right: 10px;
+        margin-top: 10px;
+        margin-left: 23px;
+    }
+
+
+
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+ 
+}
